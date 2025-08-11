@@ -13,7 +13,7 @@ jobs:
             - uses: athul/waka-readme@master
               with:
                 WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-                IGNORED_LANGUAGES: YAML JSON TOML GitIgnore
+                IGNORED_LANGUAGES: YAML JSON TOML GitIgnore file
                 COMMIT_MESSAGE: 🐾 WakaTime status :3
                 COMMITTER_NAME: Spike The Shep
                 COMMITTER_EMAIL: action-bot@github.com
