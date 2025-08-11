@@ -21,7 +21,7 @@ Total Time: 9 hrs 55 mins
 Java                       5 hrs 57 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   60.09 %
 Kotlin                     2 hrs 5 mins    ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   21.14 %
 Groovy                     35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-GitIgnore file             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Gradle                     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
