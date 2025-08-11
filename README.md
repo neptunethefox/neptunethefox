@@ -1,5 +1,5 @@
 ## Hi there 👋
-`Developer/Gamer`
+`Developer/Gamer/Pixel Artist (Learning)`
 
 Im a self-taught developer from Australia🇦🇺.
 
@@ -10,5 +10,4 @@ Im a self-taught developer from Australia🇦🇺.
 
 ---
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
