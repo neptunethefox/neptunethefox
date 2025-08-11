@@ -15,7 +15,7 @@ jobs:
               with:
                 WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
                 IGNORED_LANGUAGES: YAML JSON TOML
-                COMMIT_MESSAGE: 🐾 ${{ secrets.DISCORD_USER_PING }} PLEASE setup wakatime on something that isnt IDEA I AM BEGGING YO-
+                COMMIT_MESSAGE: 🐾 WakaTime status :3
                 COMMITTER_NAME: Spike The Shep
                 COMMITTER_EMAIL: action-bot@github.com
                 SHOW_TOTAL: true
