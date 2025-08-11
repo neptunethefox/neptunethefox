@@ -1,15 +1,15 @@
-name: Wakatime
+name: WakaTime
 
 on:
     workflow_dispatch:
     schedule:
         - cron: "0 0 * * *"
 
-# j-j-JOBS??
 jobs:
     update-readme:
         name: Update Readme with new WakaTime stats
         runs-on: ubuntu-latest
+        permissions: write-all # gulp!
         steps:
             - uses: athul/waka-readme@master
               with:
