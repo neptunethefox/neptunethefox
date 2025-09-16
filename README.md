@@ -4,6 +4,7 @@
 Im a self-taught developer from Australia🇦🇺.
 
 **Currently Working On**: [DiamondFire Rich Presence](https://github.com/neptunethefox/DiamondFireRPC)
+
 ---
 
 ### My Tech Stack
